@@ -1,3 +1,4 @@
+package gfg.Array;
 import java.util.Scanner;
 
 class Fibonacci {

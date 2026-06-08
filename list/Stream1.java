@@ -1,3 +1,4 @@
+package list;
 import java.util.*;
 public class Stream1 {
     public static void main(String[] args){

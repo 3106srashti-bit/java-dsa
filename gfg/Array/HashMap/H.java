@@ -1,3 +1,4 @@
+package gfg.Array.HashMap;
 import java.util.*;
  public class H {
     public int[] twoSum(int[] nums, int target) {
