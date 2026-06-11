@@ -1,0 +1,23 @@
+package gfg.Array.LinkedList;
+
+public class 3 {
+   /*
+class Node {
+    int data;
+    Node next;
+
+    Node(int x) {
+        data = x;
+        next = null;
+    }
+}
+*/
+
+class Solution {
+    public Node insertAtFront(Node head, int x) {
+        Node n = new Node(x);
+        n.next = head;
+        return n;
+    }
+} 
+}

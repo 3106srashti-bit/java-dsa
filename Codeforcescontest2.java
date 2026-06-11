@@ -19,7 +19,7 @@ public class Codeforcescontest2 {
             System.out.println(ans);
         }
     }  
-
+ 
 
     
 }
