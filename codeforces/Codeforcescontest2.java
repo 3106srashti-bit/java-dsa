@@ -1,3 +1,4 @@
+package codeforces;
 import java.util.*;
 public class Codeforcescontest2 {
     public static void main(String[] args) {
@@ -19,7 +20,7 @@ public class Codeforcescontest2 {
             System.out.println(ans);
         }
     }  
- 
+ //this code reads multiple test cases, where for each test case it takes an integer `n` and an array of `n` integers. It sorts the array and counts how many times three consecutive elements form an arithmetic progression (i.e., the difference between the first and second element is the same as the difference between the second and third element). Finally, it prints the count for each test case.
 
     
 }

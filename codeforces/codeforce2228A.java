@@ -1,3 +1,4 @@
+package codeforces;
 import java.util.Scanner;
 public class codeforce2228A {
   public static void main(String[] args) {
